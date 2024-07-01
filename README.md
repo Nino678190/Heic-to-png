@@ -8,4 +8,6 @@ Run:<br>
 <h3>Windows</h3>
 <code>cd to\your\location</code>
 <code>python main.py</code>
-
+<h3>Linux</h3>
+<code>cd to/your/location</code>
+<code>python3 main.py</code>
